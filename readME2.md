@@ -12,7 +12,10 @@ Oracle Virtual Box is an example of a type 2 Hypervisor that makes virtualizatio
 ### SET-UP FOR VIRTUAL BOX
 
 We would be downloading VirtualBox 7.0.10 platform package
-Navigate to the website : https://www.virtualbox.org/
+Navigate to the website :
+
+https://www.virtualbox.org/
+
 Download and install the virtual box
 
 ![2023-09-14 20_40_53-Oracle VM VirtualBox Manager](https://github.com/w22038999/VirtualMachineSetUp/assets/141069152/f19e9805-a92e-4db8-9329-f1a98437a886)
